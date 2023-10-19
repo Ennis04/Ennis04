@@ -1,6 +1,6 @@
 ### Hi there!😎
 
-My name is Ennis Lam Si Hoong, currently a student studying in Universiti Teknologi Malaysia in Graphics and Multimedia Software.
+My name is Ennis Lam Si Hoong, currently a student studying in Universiti Teknologi Malaysia and taking the course of Graphics and Multimedia Software.
 
 ![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097)
 
