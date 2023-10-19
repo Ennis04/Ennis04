@@ -1,4 +1,5 @@
-### Hi there my name is ENNIS LAM SI HOONG.
+### Hi there![MuaKissGIF](https://github.com/Ennis04/Ennis04/assets/148412826/13ff7ac4-8e40-4d5f-a39b-d107993ee6d5)
+.
 
 <!--
 **Ennis04/Ennis04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
