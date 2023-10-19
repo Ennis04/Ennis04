@@ -4,6 +4,24 @@ My name is Ennis Lam Si Hoong, currently a student studying in Universiti Teknol
 
 ![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097)
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ennis04&label=Profile%20views&color=0e75b6&style=flat" alt="ennis04" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ennis04" alt="ennis04" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/ennis lam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ennis lam" height="30" width="40" /></a>
+<a href="https://instagram.com/ennis_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ennis_24" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ennis04&show_icons=true&locale=en" alt="ennis04" /></p>
+
+
 
 <!--
 **Ennis04/Ennis04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
