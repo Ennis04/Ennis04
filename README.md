@@ -1,5 +1,6 @@
-### Hi there![MuaKissGIF](https://github.com/Ennis04/Ennis04/assets/148412826/13ff7ac4-8e40-4d5f-a39b-d107993ee6d5)
-.
+### Hi there!😎
+
+My name is Ennis Lam Si Hoong, currently a student studying in Universiti Teknologi Malaysia as a student of Graphics and Multimedia Software.
 
 <!--
 **Ennis04/Ennis04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
