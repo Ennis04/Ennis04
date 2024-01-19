@@ -31,9 +31,9 @@ Although myteam only ranked 13 out of 31 teams from countries all over the world
 <h3 align="center">My Assignemnt</h3>
 Here are some of my Technology and Information System (TIS) assignments. TIS is a complusory subject for all Year 1 Computer Science's student stuying in UTM. It teaches us basic about the Internet and all technologies used.
 
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/roniemartinez](https://github.com/Ennis04/Technology-Information-System" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-https://github.com/Ennis04/Technology-Information-System/blob/53469a9876c72a43c48536ad086711502df3fedc/ASSIGNMENT%201%20-%20NALI%202023%20-%20Interviews%20Script%20-%20S07%20-%20G08.pdf
+https://github.com/Ennis04/Technology-Information-System
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennis04&label=Profile%20views&color=0e75b6&style=flat" alt="ennis04" /> </p>
 
