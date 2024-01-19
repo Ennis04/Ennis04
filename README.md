@@ -2,7 +2,7 @@
 
 <p align="center">I'm currently a student studying in Universiti Teknologi Malaysia and taking the course of Graphics and Multimedia Software.</p>
 
-<p align="center">![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097)</p>
+![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097)
 
 ---
 
