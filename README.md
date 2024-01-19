@@ -2,9 +2,11 @@
 
 I'm currently a student studying in Universiti Teknologi Malaysia and taking the course of Graphics and Multimedia Software.
 
-<p align="center"><a ![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097) /></a></p>
+![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097)
 
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+
+
+<h3 align="center">My Education</h3>
 
 My hometown is at Seremban, Negeri Sembilan. My primary school is SJK(C) CHUNG HUA whereby my secondary school is SMJK CHAN WA II. I studied at Kolej Matrikulasi Kejuruteraan Johor for my pre-u.
 
