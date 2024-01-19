@@ -4,11 +4,14 @@ I'm currently a student studying in Universiti Teknologi Malaysia and taking the
 
 ![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097)
 
-
-
+<h3 align="center"></h3>
+<h3 align="center"></h3>
 <h3 align="center">My Education</h3>
 
 My hometown is at Seremban, Negeri Sembilan. My primary school is SJK(C) CHUNG HUA whereby my secondary school is SMJK CHAN WA II. I studied at Kolej Matrikulasi Kejuruteraan Johor for my pre-u.
+
+<h3 align="center">My Education</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennis04&label=Profile%20views&color=0e75b6&style=flat" alt="ennis04" /> </p>
 
