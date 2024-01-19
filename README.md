@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! My name is Ennis Lam Si Hoong.😎</h1>
+<h2 align="center">Hi there! My name is Ennis Lam Si Hoong.😎</h2>
 
 <p align="center">I'm currently a student studying in Universiti Teknologi Malaysia and taking the course of Graphics and Multimedia Software.</p>
 
