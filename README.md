@@ -10,6 +10,8 @@
 
 My hometown is at Seremban, Negeri Sembilan. My primary school is SJK(C) CHUNG HUA whereby my secondary school is SMJK CHAN WA II. I studied at Kolej Matrikulasi Kejuruteraan Johor for my pre-u.
 
+I managed to score 6A 2b for my Ujian Pencapaian Sekolah Rendah(UPSR), 8A 1B for Pentaksiran Tingkatan Tiga(PT3), 9A 1B for Sijil Pelajaran Malaysia(SPM) and CGPA of 3.92 for Peperiksaan Semester Program Matrikulasi.
+
 ---
 
 <h3 align="center">My Achievement</h3>
