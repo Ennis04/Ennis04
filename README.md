@@ -4,14 +4,15 @@ I'm currently a student studying in Universiti Teknologi Malaysia and taking the
 
 ![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097)
 
-<h3 align="center"></h3>
-<h3 align="center"></h3>
 <h3 align="center">My Education</h3>
 
 My hometown is at Seremban, Negeri Sembilan. My primary school is SJK(C) CHUNG HUA whereby my secondary school is SMJK CHAN WA II. I studied at Kolej Matrikulasi Kejuruteraan Johor for my pre-u.
 
-<h3 align="center">My Education</h3>
+<h3 align="center">My Award</h3>
 
+I,m a member of Malaysia national Roboctics team which compete in World Robot olympiad. In year 2018, I was given an opportunity to represent Malaysia in World Robot Olympaid 2018 held in Chiang Mai, Thailand.
+
+"C:\Users\user\OneDrive\Desktop\UTM\Year 1\Sem 1\Technology and Information System\eportfolio\WhatsApp Image 2024-01-19 at 20.08.19_268b73d3.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennis04&label=Profile%20views&color=0e75b6&style=flat" alt="ennis04" /> </p>
 
