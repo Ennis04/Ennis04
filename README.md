@@ -29,7 +29,7 @@ Although myteam only ranked 13 out of 31 teams from countries all over the world
 ---
 
 <h3 align="center">My Assignemnt</h3>
-Here are some of my ___Technology and Information System (TIS)___ assignments. TIS is a complusory subject for all Year 1 Computer Science's student stuying in UTM. It teaches us basic about the Internet and all technologies used.
+Here are some of my **Technology and Information System (TIS)** assignments. TIS is a complusory subject for all Year 1 Computer Science's student stuying in UTM. It teaches us basic about the Internet and all technologies used.
 
 <a href="https://github.com/Ennis04/Technology-Information-System" target="_blank"><img src="https://github.com/Ennis04/Ennis04/blob/ce092129cc3ebbfb4c0ea5f3efa9871afe470a36/Learn-More-Button-PNG-Free-Image.png" alt="Know More" height="100" width="274"></a>
 
