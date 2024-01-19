@@ -2,7 +2,7 @@
 
 I'm currently a student studying in Universiti Teknologi Malaysia and taking the course of Graphics and Multimedia Software.
 
-![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097)
+<p align="center"><a ![HiHelloGIF](https://github.com/Ennis04/Ennis04/assets/148412826/81ad18e0-078e-49f2-ad7f-202b40cf2097) /></a></p>
 
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
