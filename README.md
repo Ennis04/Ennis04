@@ -12,7 +12,7 @@ My hometown is at Seremban, Negeri Sembilan. My primary school is SJK(C) CHUNG H
 
 I,m a member of Malaysia national Roboctics team which compete in World Robot olympiad. In year 2018, I was given an opportunity to represent Malaysia in World Robot Olympaid 2018 held in Chiang Mai, Thailand.
 
-![gallery](WhatsApp Image 2024-01-19 at 20.08.19_268b73d3.jpg)
+![gallery](https://github.com/Ennis04/Ennis04/blob/0cf21b1a1907da6ede20998fccd89186b45cd494/WhatsApp%20Image%202024-01-19%20at%2020.08.19_268b73d3.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennis04&label=Profile%20views&color=0e75b6&style=flat" alt="ennis04" /> </p>
 
