@@ -6,6 +6,8 @@ I'm currently a student studying in Universiti Teknologi Malaysia and taking the
 
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
+My hometown is at Seremban, Negeri Sembilan. My primary school is SJK(C) CHUNG HUA whereby my secondary school is SMJK CHAN WA II. I studied at Kolej Matrikulasi Kejuruteraan Johor for my pre-u.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennis04&label=Profile%20views&color=0e75b6&style=flat" alt="ennis04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ennis04" alt="ennis04" /></a> </p>
