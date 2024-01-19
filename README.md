@@ -26,6 +26,11 @@ Although myteam only ranked 13 out of 31 teams from countries all over the world
 
 <h3 align="center">The most of all, we want to have fun!"</h3><br />
 
+To know more about me, please press the button below.
+
+<p align="center"> <a href="https://drive.google.com/file/d/1O36DCybBRg1OamQ-gjTOdDznS541TD9j/view?usp=drive_link" target="_blank"><img src="https://github.com/Ennis04/Ennis04/blob/ce092129cc3ebbfb4c0ea5f3efa9871afe470a36/Learn-More-Button-PNG-Free-Image.png" alt="Know More" height="100" width="274"></a> </p>
+
+
 ---
 
 <h3 align="center">My Assignemnt</h3>
