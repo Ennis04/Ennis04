@@ -20,7 +20,7 @@ I,m a member of Malaysia national Roboctics team which compete in World Robot ol
 
 ![gallery](https://github.com/Ennis04/Ennis04/blob/0cf21b1a1907da6ede20998fccd89186b45cd494/WhatsApp%20Image%202024-01-19%20at%2020.08.19_268b73d3.jpg)
 
-Although myteam only ranked 13 out of 31 teams from countries all over the world but we really enjoyed the learning process.
+Although my team only ranked 13 out of 31 teams from countries all over the world but we really enjoyed the learning process.
 
 <h3 align="center">"We like to win.</h3>
 
