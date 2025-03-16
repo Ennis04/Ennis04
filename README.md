@@ -16,7 +16,7 @@ I managed to score 6A 2b for my Ujian Pencapaian Sekolah Rendah(UPSR), 8A 1B for
 
 <h3 align="center">My Achievement</h3>
 
-I,m a member of Malaysia national Roboctics team which compete in World Robot olympiad. In year 2018, I was given an opportunity to represent Malaysia in World Robot Olympaid 2018 held in Chiang Mai, Thailand.
+I'm a member of Malaysia national Roboctics team which compete in World Robot olympiad. In year 2018, I was given an opportunity to represent Malaysia in World Robot Olympaid 2018 held in Chiang Mai, Thailand.
 
 ![gallery](https://github.com/Ennis04/Ennis04/blob/0cf21b1a1907da6ede20998fccd89186b45cd494/WhatsApp%20Image%202024-01-19%20at%2020.08.19_268b73d3.jpg)
 
