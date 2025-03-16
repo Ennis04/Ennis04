@@ -30,13 +30,6 @@ Although my team only ranked 13 out of 31 teams from countries all over the worl
 
 ---
 
-<h3 align="center">My Assignemnt and Reflection</h3>
-Here are some of my Technology and Information System (TIS) assignments. TIS is a complusory subject for all Year 1 Computer Science's student stuying in UTM. It teaches us basic about the Internet and all technologies used.
-
-<p align="center"> <a href="https://github.com/Ennis04/Technology-Information-System" target="_blank"><img src="https://github.com/Ennis04/Ennis04/blob/ce092129cc3ebbfb4c0ea5f3efa9871afe470a36/Learn-More-Button-PNG-Free-Image.png" alt="Assignment and Reflection" height="100" width="274"></a> </p>
-
----
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennis04&label=Profile%20views&color=0e75b6&style=flat" alt="ennis04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ennis04" alt="ennis04" /></a> </p>
