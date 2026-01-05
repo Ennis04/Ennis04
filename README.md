@@ -30,6 +30,8 @@ Although my team only ranked 13 out of 31 teams from countries all over the worl
 
 I'm also a former member of UTM ROBOCON Team which represent Malaysia twice in ABU ROBOCON 2024 at Vietnam and ABU ROBOCON 2025 at Mongolia.
 
+![gallery](https://github.com/Ennis04/Ennis04/blob/main/ABU%20ROBOCON%202024.jpg)
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ennis04&label=Profile%20views&color=0e75b6&style=flat" alt="ennis04" /> </p>
